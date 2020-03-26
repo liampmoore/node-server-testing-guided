@@ -8,6 +8,9 @@
     "start": "node index.js",
     "test": "cross-env NODE_ENV=testing jest --watch-all --verbose"
   },
+  "engines": {
+    "node": "12.11.1"
+    },
   "keywords": [],
   "author": "Lambda School",
   "dependencies": {
